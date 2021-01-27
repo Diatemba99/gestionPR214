@@ -1,8 +1,6 @@
 """
 module pour la gestion des modules
 """
-
-
 from datetime import datetime
 import time
 
@@ -11,13 +9,11 @@ now = datetime.now()
 date = now.strftime("%Y-%m-%d")
 heureActu_mat = now.strftime("%H%M%S")
 
-
 #creation d'une liste pour contenir les données de tout les modules
 dico_module = []
 
 #liste pour les donnees a afficher
 list_module = []
-
 
 
 #creation de la fonction ajouter qui permet d'ajouter un module dans la liste dico_module
@@ -38,7 +34,6 @@ def ajouterModule():
 def affiModule():
     for i in range(len(dico_module)):
         print(dico_module[i])
-
 
 
 #creation de la fonction afficher qui permet d'afficher les modules de la liste dico_module
