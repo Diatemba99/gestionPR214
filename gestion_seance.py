@@ -47,7 +47,6 @@ def ajoutSeance():
    list_seance.append([numeroSeance,dateSeance,NomSalle])
    menu_seance()
 
-
 #Fonction pour afficher les seances
 def afficherSeance():
     numSeance = "NUMERO_SEANCE"
@@ -68,13 +67,11 @@ def afficherSeance():
     menu_seance()  
 
 
-
 #fonction pour afficher les seances avec l'id
 def affiSeance():
     for i in range(len(dico_seance)):
         print(dico_seance[i], end=' ')
         print("\n\n")
-
 
 
 #fonction pour modifier le contenu
@@ -91,9 +88,6 @@ def modifier_seance():
                  print("element introuvable")
                  menu_seance()
 
-
-
-
 #fonction pour rechercher
 def rechercher_seance():
     affiSeance()
@@ -105,9 +99,6 @@ def rechercher_seance():
             else:
                 print("element introuvable")
                 menu_seance()   
-
-
-
 
 
 #fonction pour supprimer
@@ -122,14 +113,6 @@ def supprimer_seance():
         else:
             print("element introuvable")
             menu_seance()
-
-
-
-
-
-
-
-
 
 
 #fonction pour le menu principal
