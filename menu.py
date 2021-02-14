@@ -1,9 +1,6 @@
 """
 module pour l'affiche du programme
 """
-
-
-
 import sys
 import colorama
 import time
