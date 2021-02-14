@@ -249,7 +249,6 @@ def menu_module():
             print('choix non pris en compte')    
 # menu_module()
 
-
 """
 # ---------------------------------------------------------------------
 # -------------------         GESTION SEANCE         ------------------
@@ -257,8 +256,6 @@ def menu_module():
 # -------------------         GESTION SEANCE         ------------------
 # ---------------------------------------------------------------------
 """
-
-
 
 #liste pour toutes les donnees d'une séance
 dico_seance = []
@@ -296,12 +293,6 @@ def ajoutSeance():
     titreChapitre,objetifs,NomSalle]) 
    list_seance.append([numeroSeance,dateSeance,NomSalle])
    menu_seance()
-
-
-
-
-
-
 
 #Fonction pour afficher les seances
 def afficherSeance():
