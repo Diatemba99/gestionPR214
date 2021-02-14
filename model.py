@@ -346,13 +346,6 @@ def rechercher_seance():
                 print("element introuvable")
                 menu_seance()   
 
-
-
-
-
-
-
-
 #fonction pour supprimer
 def supprimer_seance():
     affiSeance()
@@ -365,12 +358,6 @@ def supprimer_seance():
         else:
             print("element introuvable")
             menu_seance()
-
-
-
-
-
-
 
 def menu_seance():
     print('1-Ajouter un seance')
@@ -397,10 +384,6 @@ def menu_seance():
         else:
             print("choix non pris en compte")       
 
-
-
-
-
 """
 # ---------------------------------------------------------------------
 # -------------------          GESTION NOTE          ------------------
@@ -408,7 +391,6 @@ def menu_seance():
 # -------------------          GESTION NOTE          ------------------
 # ---------------------------------------------------------------------
 """
-
 
 #fonction qui permet d'ajouter une note
 def ajouterNotes():
@@ -486,6 +468,5 @@ def menuMain():
             sys.exit()           
         else:
             print("choix non pris en compte")
-
 
 menuMain()
