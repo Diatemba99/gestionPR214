@@ -48,10 +48,6 @@ def menuMain():
         print("Ce choix n'existe pas ")
         menuMain()
 
-
-
-
-
 if __name__=="__main__":
     affichage()
     menuMain()
