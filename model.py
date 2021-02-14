@@ -222,12 +222,6 @@ def rechercher_module():
             else:
                 print('element introuvable')
                 menu_module() 
-    
-
-
-
-
-
 
 def menu_module():
     print('1-Ajouter un module')
