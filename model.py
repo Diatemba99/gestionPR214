@@ -76,10 +76,6 @@ def rechercheEtudiant():
                 print("element introuvable")
                 menu_gestionEtudiant()    
 
-
-
-
-
 def supprimerEtudiant():
     affiEtudiant()
     bigiD = input("Saisir id module: ")
