@@ -313,7 +313,6 @@ def afficherSeance():
         print("-" * 80)
     menu_seance()  
 
-
 #fonction pour afficher les seances avec l'id
 def affiSeance():
     for i in range(len(dico_seance)):
@@ -426,13 +425,6 @@ def menu_gestionNote():
             pass
         else:
             print("choix non pris en compte")
-
-
-
-
-
-
-
 
 def menuMain():
     print("=======================================================")
