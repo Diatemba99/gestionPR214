@@ -204,11 +204,6 @@ def supprimer_module():
             print("element introuvable")
             menu_module()
 
-
-
-
-
-
 #creation de la fonction rechercher qui permet de rechercher un module de la liste dico_module
 def rechercher_module():
     
