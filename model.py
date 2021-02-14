@@ -151,12 +151,6 @@ def ajouterModule():
     #je fais appel a la fonction menu_module() pour la continuité de l'execution du programme
     menu_module()
 
-
-
-
-
-
-
 #cette fonction affiche tout le contenu de la liste
 def affiModule():
     for i in range(len(dico_module)):
