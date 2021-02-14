@@ -133,10 +133,8 @@ def menu_gestionEtudiant():
 
 #creation d'une liste pour contenir les données de tout les modules
 dico_module = []
-
 #liste pour les donnees a afficher
 list_module = []
-
 
 #creation de la fonction ajouter qui permet d'ajouter un module dans la liste dico_module
 def ajouterModule():
