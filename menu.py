@@ -9,11 +9,6 @@ import os
 from view import *
 from model import menu_gestionEtudiant,menu_seance,menu_module
 
-
-
-
-
-
 def menuMain():
     print("=======================================================")
     print('||  1. Gestion des étudiants du groupe PR214         ||')
