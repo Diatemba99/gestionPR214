@@ -3,8 +3,6 @@ regroupement de tout les modules du programme
 Tout les commentaires sont de deja fait dans les modules
 pour ne pas trop occuper d'espace dans la ram et eviter la repetition, dans cette partie il ya peu de commentaire
 """
-
-
 from datetime import datetime
 now = datetime.now()
 import sys
