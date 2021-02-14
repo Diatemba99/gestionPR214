@@ -334,11 +334,6 @@ def modifier_seance():
                  print("element introuvable")
                  menu_seance()
 
-
-
-
-
-
 #fonction pour rechercher
 def rechercher_seance():
     affiSeance()
