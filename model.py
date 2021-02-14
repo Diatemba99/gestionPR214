@@ -156,9 +156,6 @@ def affiModule():
     for i in range(len(dico_module)):
         print(dico_module[i])
 
-
-
-
 #creation de la fonction afficher qui permet d'afficher les modules de la liste dico_module
 def afficherModule():
     nomMod = "NOM_MODULE"
