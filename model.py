@@ -60,8 +60,6 @@ def afficherEtudiant():
         print("-" * 80)
     menu_gestionEtudiant()  
 
-
-
 #cette fonction affiche toute les donnees d'un etudiant
 def affiEtudiant():
     for i in range(len(dico_etudiant)):
