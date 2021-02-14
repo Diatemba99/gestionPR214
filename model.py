@@ -43,9 +43,6 @@ def ajoutEtudiant():
     list_etudiant.append([matEtudiant,prenomEt,nomEt,dateInscription])
     menu_gestionEtudiant()    
 
-
-
-
 #fonction pour afficher le contenu de la liste dico_module
 def afficherEtudiant():
     matEtu = "MATRICULE"
