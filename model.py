@@ -65,10 +65,6 @@ def affiEtudiant():
     for i in range(len(dico_etudiant)):
         print(dico_etudiant[i])
 
-
-
-
-
 def rechercheEtudiant():
     affiEtudiant()
     idrecherche = input("Saisir id module: ")
