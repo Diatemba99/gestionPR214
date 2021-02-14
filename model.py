@@ -101,11 +101,6 @@ def modifierEtudiant():
                  print("element introuvable")
     menu_gestionEtudiant()         
 
-
-
-
-
-
 def menu_gestionEtudiant():
     print('1- AJOUTER UN ETUDIANT ')
     print('2- MODIFIER UN ETUDIANT ')
