@@ -11,8 +11,6 @@ module pour la gestion des notes
 
 # ajouterNotes()
 
-
-
 #menu principale de ce module
 # def menu_gestionNote():
 #     print('1-Ajouter une note')
@@ -38,8 +36,3 @@ module pour la gestion des notes
         # else:
         #     print("choix non pris en compte")
 # menu_gestionNote()
-
-
-
-
-
