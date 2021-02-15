@@ -15,7 +15,6 @@ dico_module = []
 #liste pour les donnees a afficher
 list_module = []
 
-
 #creation de la fonction ajouter qui permet d'ajouter un module dans la liste dico_module
 def ajouterModule():
     nom_Module = input("Saisir nom du module : ")
@@ -85,10 +84,6 @@ def supprimer_module():
         else:
             print("element introuvable")
             menu_module()
-
-
-
-
 
 #creation de la fonction rechercher qui permet de rechercher un module de la liste dico_module
 def rechercher_module():
