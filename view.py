@@ -7,8 +7,6 @@ import os
 #je stocke la valeur aléatoire de la couleur 
 couleur = list(vars(colorama.Fore).values())
 
-
-
 def pr214():
     print('11111111111111         111111111111111111           11111111111111111111      1111111      11111111                  ')
     print('1111111111111111       11111111111111111111         11111111111111111111      1111111      11111111                  ')
