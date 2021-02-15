@@ -109,9 +109,6 @@ def rechercher_module():
                 print('element introuvable')
                 menu_module() 
     
-
-
-
 #menu principale de ce module
 def menu_module():
     print('1-Ajouter un module')
@@ -138,5 +135,3 @@ def menu_module():
         else:
             print("choix non pris en compte")
 menu_module()
-
-
