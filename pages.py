@@ -83,12 +83,6 @@ def supprimerEtudiant():
             print("element introuvable")
             menu_gestionEtudiant()
 
-
-
-
-
-
-
 #fonction pour modifier les donnees d'un etudiant
 def modifierEtudiant():
     affiEtudiant()
