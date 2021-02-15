@@ -69,10 +69,6 @@ def modifier_module():
                  print("element introuvable")
                  menu_module()
 
-
-
-
-
 #creation de la fonction supprimer qui permet de supprimer un module de la liste dico_module
 def supprimer_module():
     
