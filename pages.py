@@ -58,9 +58,6 @@ def affiEtudiant():
     for i in range(len(dico_etudiant)):
         print(dico_etudiant[i])
 
-
-
-
 #fonction pour rechercher un etudiant 
 def rechercheEtudiant():
     affiEtudiant()
