@@ -1,7 +1,6 @@
 """
 Module pour la gestion d'etudiant
 """
-
 from datetime import datetime
 
 now = datetime.now()
