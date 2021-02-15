@@ -51,11 +51,6 @@ def afficherModule():
         print(f"|{nommod:20}",f"|{heure:19}")
         print("-" * 60)
     menu_module()  
- 
-
-
-
-
 
 #creation de la fonction modifier qui permet de modifier les modules de la liste dico_module
 def modifier_module():
