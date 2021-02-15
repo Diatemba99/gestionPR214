@@ -70,10 +70,6 @@ def rechercheEtudiant():
                 print("element introuvable")
                 menu_gestionEtudiant()    
 
-
-
-
-
 #fonction pour supprimer un etudiant
 def supprimerEtudiant():
     affiEtudiant()
