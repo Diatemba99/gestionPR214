@@ -7,7 +7,6 @@ import time
 now = datetime.now()
 date = now.strftime("%Y-%m-%d")
 
-
 #liste pour toutes les donnees d'une séance
 dico_seance = []
 
