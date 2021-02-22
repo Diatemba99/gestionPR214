@@ -1,8 +1,6 @@
 """
 module pour la gestion des seances
 """
-
-
 from datetime import datetime
 import time
 
