@@ -26,7 +26,7 @@ def pr214():
 def affichage():
     for i in range(300):   
         time.sleep(0.001)
-        #j'affiche et je change la couleur du
+        #j'affiche et je change la couleur
         #j'affiche et je change la couleur du contenu
         print(random.choice(couleur),"11"*65)
     #le systeme patiente 3 secondes avant d'effacer l'écran avec cls
