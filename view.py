@@ -28,7 +28,7 @@ def affichage():
         time.sleep(0.001)
         #j'affiche et je change la couleur du contenu
         print(random.choice(couleur),"11"*65)
-    #le systeme patiente 3 secondes avant d'effacer
+    #le systeme patiente 3 secondes avant
     #le systeme patiente 3 secondes avant d'effacer l'écran avec cls
     time.sleep(3)    
     os.system('cls')
