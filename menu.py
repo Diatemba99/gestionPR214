@@ -13,7 +13,6 @@ def menuMain():
     print("=======================================================")
     print('||  1. Gestion des étudiants du groupe PR214         ||')
     print("=======================================================")
-
     print('||  2. Gestion des modules de formations de PR214    ||')
     print("=======================================================")
 
