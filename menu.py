@@ -19,7 +19,6 @@ def menuMain():
     print("=======================================================")
     print('||  4. Gestion de  notes des modules du groupe PR214 ||')
     print("=======================================================")
-
     print('||  5. Gestion des résultats académiques             ||')
     print("=======================================================")
 
