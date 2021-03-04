@@ -36,7 +36,6 @@ def ajoutEtudiant():
     menu_gestionEtudiant()    
 
 #fonction pour afficher le contenu de la liste dico_module
-#fonction pour afficher le contenu de la liste dico_module
 def afficherEtudiant():
     matEtu = "MATRICULE"
     prenomET = "PRENOM"
