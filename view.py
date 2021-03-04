@@ -3,7 +3,7 @@ import time
 import random
 import os
 
-#je stocke la valeur aléatoire de la couleur 
+#setting randow color 
 couleur = list(vars(colorama.Fore).values())
 
 def pr214():
