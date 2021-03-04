@@ -8,7 +8,6 @@ heureActu = now.strftime("%H:%M:%S")
 heureActu_mat = now.strftime("%H%M%S")
 date = now.strftime("%Y-%m-%d")
 
-#liste
 #liste pour toutes les donnees des etudiants
 dico_etudiant = []
 #liste pour les donnees a afficher
