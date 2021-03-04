@@ -23,7 +23,7 @@ def pr214():
     print('111111                 111111           111111      11111111111111111111      1111111                      1111111   ')
 
     
-#function permettant d'afficher le 
+#function permettant d'afficher
 #function permettant d'afficher le contenu de cette 
 def affichage():
     for i in range(300):   
