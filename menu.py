@@ -21,7 +21,6 @@ def menuMain():
     print("=======================================================")
     print('||  5. Gestion des résultats académiques             ||')
     print("=======================================================")
-
     print("||  6. Quitter                                       ||")
     print("=======================================================")
     valeur = input("Faites votre choix : ")
