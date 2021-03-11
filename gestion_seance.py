@@ -96,7 +96,6 @@ def rechercher_seance():
                 print("element introuvable")
                 menu_seance()   
 
-
 #fonction pour supprimer
 def supprimer_seance():
     affiSeance()
