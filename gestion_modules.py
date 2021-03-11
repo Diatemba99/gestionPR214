@@ -14,7 +14,6 @@ heureActu_mat = now.strftime("%H%M%S")
 dico_module = []
 
 #liste pour les donnees a afficher
-#liste
 list_module = []
 
 #creation de la fonction ajouter qui permet d'ajouter un module dans la liste dico_module
