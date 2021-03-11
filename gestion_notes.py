@@ -29,7 +29,7 @@ module pour la gestion des notes
          elif choix == 4:
               supprimer_module()
          elif choix == 5:
-        #     # afficherModule()
+              afficherModule()
         # elif choix == 6:
         #     pass
         # else:
