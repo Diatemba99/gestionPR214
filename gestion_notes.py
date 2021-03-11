@@ -28,7 +28,7 @@ module pour la gestion des notes
               rechercher_module()  
          elif choix == 4:
               supprimer_module()
-        # elif choix == 5:
+         elif choix == 5:
         #     # afficherModule()
         # elif choix == 6:
         #     pass
