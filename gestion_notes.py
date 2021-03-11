@@ -20,7 +20,7 @@ module pour la gestion des notes
     
      while True:   
          choix = int(input('faites votre choix : '))
-        # if choix == 1:
+         if choix == 1:
         #     # ajouterModule()
         # elif choix == 2:    
         #     # modifier_module()
