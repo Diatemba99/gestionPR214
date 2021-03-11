@@ -5,7 +5,7 @@ module pour la gestion des notes
  from gestion_modules import *
 
  def ajouterNotes():
-#     afficherEtudiant()
+      afficherEtudiant()
 #     afficherModule()
 
 # ajouterNotes()
