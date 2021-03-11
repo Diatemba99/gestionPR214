@@ -30,7 +30,7 @@ module pour la gestion des notes
               supprimer_module()
          elif choix == 5:
               afficherModule()
-        # elif choix == 6:
+         elif choix == 6:
         #     pass
         # else:
         #     print("choix non pris en compte")
