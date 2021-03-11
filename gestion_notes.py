@@ -22,7 +22,7 @@ module pour la gestion des notes
          choix = int(input('faites votre choix : '))
          if choix == 1:
               ajouterModule()
-        # elif choix == 2:    
+         elif choix == 2:    
         #     # modifier_module()
         # elif choix == 3:
         #     # rechercher_module()  
