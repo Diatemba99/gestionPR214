@@ -7,7 +7,7 @@ import time
 
 now = datetime.now()
 #recuperation en conversion de la date et l'heure en chaine de caracteres
-#recuperation en conversion de
+#recuperation en conversion
 date = now.strftime("%Y-%m-%d")
 heureActu_mat = now.strftime("%H%M%S")
 
