@@ -11,7 +11,7 @@ date = now.strftime("%Y-%m-%d")
 heureActu_mat = now.strftime("%H%M%S")
 
 #creation d'une liste pour contenir les données de tout les modules
-#creation d'une
+#creation
 dico_module = []
 
 #liste pour les donnees a afficher
