@@ -18,7 +18,7 @@ module pour la gestion des notes
      print("4-Afficher les notes d’un étudiant pour tous les module")
      print('5-Afficher les notes de tous les étudiants pour tous les modules')
     
-    # while True:   
+     while True:   
     #     choix = int(input('faites votre choix : '))
         # if choix == 1:
         #     # ajouterModule()
