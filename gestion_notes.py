@@ -31,7 +31,7 @@ module pour la gestion des notes
          elif choix == 5:
               afficherModule()
          elif choix == 6:
-        #     pass
+              pass
         # else:
         #     print("choix non pris en compte")
 # menu_gestionNote()
