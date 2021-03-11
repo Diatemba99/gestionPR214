@@ -70,7 +70,6 @@ def affiSeance():
         print(dico_seance[i], end=' ')
         print("\n\n")
 
-
 #fonction pour modifier le contenu
 def modifier_seance():
     affiSeance()
