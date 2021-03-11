@@ -24,7 +24,7 @@ module pour la gestion des notes
               ajouterModule()
          elif choix == 2:    
               modifier_module()
-        # elif choix == 3:
+         elif choix == 3:
         #     # rechercher_module()  
         # elif choix == 4:
         #     # supprimer_module()
