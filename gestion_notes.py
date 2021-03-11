@@ -14,7 +14,7 @@ module pour la gestion des notes
  def menu_gestionNote():
      print('1-Ajouter une note')
      print('2-Modifier une note')
-#     print('3-Afficher la note d’un étudiant pour un module donné')
+     print('3-Afficher la note d’un étudiant pour un module donné')
 #     print("4-Afficher les notes d’un étudiant pour tous les module")
 #     print('5-Afficher les notes de tous les étudiants pour tous les modules')
     
