@@ -34,4 +34,4 @@ module pour la gestion des notes
               pass
          else:
              print("choix non pris en compte")
-# menu_gestionNote()
+ menu_gestionNote()
