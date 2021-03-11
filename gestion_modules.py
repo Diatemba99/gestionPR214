@@ -27,7 +27,7 @@ def ajouterModule():
     dico_module.append([idModule,nom_Module,volumeHoraire_Module,coefficient_Module])
     list_module.append([nom_Module,volumeHoraire_Module])
     #je fais appel a la fonction menu_module() pour la continuité de l'execution du programme
-    #je fais appel a la fonction menu_module() pour la
+    #je fais appel a la fonction menu_module() pour
     menu_module()
 
 
