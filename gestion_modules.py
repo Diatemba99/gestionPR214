@@ -17,7 +17,7 @@ dico_module = []
 list_module = []
 
 #creation de la fonction ajouter qui permet d'ajouter un module dans la liste dico_module
-#creation de la fonction ajouter
+#creation de la fonction
 def ajouterModule():
     nom_Module = input("Saisir nom du module : ")
     volumeHoraire_Module = input("Saisir le volume horaire du module : ")
