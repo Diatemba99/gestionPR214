@@ -109,7 +109,6 @@ def supprimer_seance():
             print("element introuvable")
             menu_seance()
 
-
 #fonction pour le menu principal
 def menu_seance():
     print('1-Ajouter un seance')
