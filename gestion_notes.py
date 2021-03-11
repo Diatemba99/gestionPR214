@@ -8,7 +8,7 @@ module pour la gestion des notes
       afficherEtudiant()
       afficherModule()
 
-# ajouterNotes()
+ ajouterNotes()
 
 #menu principale de ce module
 # def menu_gestionNote():
