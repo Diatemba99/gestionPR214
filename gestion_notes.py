@@ -2,7 +2,7 @@
 module pour la gestion des notes
 """
  from pages import *
-# from gestion_modules import *
+ from gestion_modules import *
 
 # def ajouterNotes():
 #     afficherEtudiant()
