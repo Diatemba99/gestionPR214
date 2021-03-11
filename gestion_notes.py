@@ -6,7 +6,7 @@ module pour la gestion des notes
 
  def ajouterNotes():
       afficherEtudiant()
-#     afficherModule()
+      afficherModule()
 
 # ajouterNotes()
 
